@@ -1,0 +1,6 @@
+{
+  "name": "3DBook",
+  "description": "Immersive digital reading platform for 3D page-flipping books, PDF monographs, and embedded 3D flipbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
